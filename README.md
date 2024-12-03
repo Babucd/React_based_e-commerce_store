@@ -40,4 +40,8 @@ To install and run this project locally, follow the steps below:
 git clone https://github.com/yourusername/react-ecommerce-web-store.git
 ```
 
+## Acknowledgements
+
+1. I built this project based on the UI/UX design provided by [Design Resource/Designer Name].
+2. Special thanks to [any other resources, libraries, or people who contributed].
 
