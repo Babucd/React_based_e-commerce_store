@@ -16,13 +16,19 @@ A React-based e-commerce platform with a clean, minimalist design, utilizing Rea
 - **Frontend Framework:** React
 - **Styling:** CSS Grid, Bootstrap
 - **Libraries:** React, Bootstrap
+- **Version Control:** Git, GitHub
+- **Markup Language:** HTML
+
 
 ## Screenshots
-![E-Commerce Screenshot](https://github.com/yourusername/assets/screenshot.png)
+![Screenshot 2024-12-03 165147](https://github.com/user-attachments/assets/6531c136-f082-48b6-81a4-1dc5443715b3)
 
 ## Demo
 You can check out the live demo of the project here:
-- [Live Demo](https://your-live-demo-link.com)
+
+https://github.com/user-attachments/assets/8608aece-e3aa-46e6-9f7e-7fc8f9361694
+
+
 
 ## Installation
 
