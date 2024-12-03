@@ -42,6 +42,5 @@ git clone https://github.com/yourusername/react-ecommerce-web-store.git
 
 ## Acknowledgements
 
-1. I built this project based on the UI/UX design provided by [Design Resource/Designer Name].
+1. I built this project based on the UI/UX design provided by [Chanta ](https://www.behance.net/gallery/198683179/Chanta-Backpack-Store) on Behance. 
 2. Special thanks to [any other resources, libraries, or people who contributed].
-
