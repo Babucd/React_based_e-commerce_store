@@ -1,7 +1,7 @@
 import React from "react";
 import one from "./real1.png";
 import two from "./real3.png";
-import three from "./real2.png"; // The central image of the man
+import three from "./real2.png";
 import four from "./real4.png";
 import five from "./10.jpg";
 
@@ -27,7 +27,7 @@ const SubMain = () => {
             <div
               className="card"
               style={{
-                height: "320px", // Slightly increased height
+                height: "320px", 
                 border: "none",
                 backgroundColor: "transparent",
               }}
@@ -40,7 +40,7 @@ const SubMain = () => {
                   width: "100%",
                   height: "100%",
                   objectFit: "cover",
-                  borderRadius: "10px", // Smoother corners
+                  borderRadius: "10px", 
                 }}
               />
             </div>
@@ -72,7 +72,7 @@ const SubMain = () => {
             <div
               className="card"
               style={{
-                height: "620px", // Slightly increased height
+                height: "620px", 
                 border: "none",
                 backgroundColor: "transparent",
               }}
@@ -93,7 +93,7 @@ const SubMain = () => {
           {/* Right Section */}
           <div className="col-lg-3 col-md-4 col-sm-6 d-flex flex-column gap-5">
             {" "}
-            {/* Adjusted column size */}
+           
             <div
               className="card"
               style={{
