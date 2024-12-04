@@ -9,7 +9,7 @@ const SubMain = () => {
   return (
     <div style={{ backgroundColor: "#2F2F2F", padding: "40px" }}>
       {" "}
-      {/* Background color changed to light black */}
+     
       <h1
         className="text-center mb-5"
         style={{ fontSize: "2rem", fontWeight: "bold", color: "#fff" }}
@@ -18,12 +18,10 @@ const SubMain = () => {
       </h1>
       <div className="container text-center">
         <div className="row justify-content-around align-items-center g-5">
-          {" "}
-          {/* Increased gap */}
-          {/* Left Section */}
+        
           <div className="col-lg-3 col-md-4 col-sm-6 d-flex flex-column gap-5">
-            {" "}
-            {/* Adjusted column size */}
+      
+           
             <div
               className="card"
               style={{
@@ -65,7 +63,7 @@ const SubMain = () => {
               />
             </div>
           </div>
-          {/* Center Image */}
+  
           <div className="col-lg-5 col-md-8 col-sm-12">
             {" "}
             {/* Adjusted column size */}
